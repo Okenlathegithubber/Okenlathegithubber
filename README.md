@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming,Gaming,Playng Football
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on programming a game
-- 📫 How to reach me, my email is dvdokenla@gmail.com
+- 📫 How to reach me, my email is okenladavid.abiola@gmail.com
 
 <!---
 Okenlathegithubber/Okenlathegithubber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
