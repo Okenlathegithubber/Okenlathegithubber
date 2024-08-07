@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Okenlathegithubber
-- 👀 I’m interested in Programming,Gaming,Playng Football
+- 👀 I’m interested in Programming, Gaming, Playing Football
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on programming a game
 - 📫 How to reach me, my email is okenladavid.abiola@gmail.com
